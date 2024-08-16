@@ -37,7 +37,7 @@ The dataset used for training the model was created with the following steps:
 3. **Preprocessing:**
    - Images were preprocessed to normalize lighting variations and enhance contrast.
 
-**Note:** The full dataset is not included in this repository due to size and licensing constraints. For access to the dataset, please refer to the [NIOT Data Access Instructions](#) or contact the dataset provider.
+**Note:** The full dataset is not included in this repository due to size and licensing constraints. For access to the dataset, contact the dataset provider.
 
 ## Proof of Concept
 
